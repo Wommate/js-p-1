@@ -19,6 +19,7 @@
 
 -   Afficher la liste des tâches ajoutées.
 -   Chaque tâche doit être accompagnée d'une case à cocher et d'un bouton de suppression.
+
 ## 👉Marquer une tâche comme terminée :
 
 -   L'utilisateur doit pouvoir cocher une case à côté de chaque tâche pour la marquer comme terminée.
